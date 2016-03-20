@@ -1,0 +1,1 @@
+Österreich ist nach der Bundesverfassung von 1920 in der Fassung von 1929, die 1945 wieder in Kraft gesetzt wurde, eine föderale, parlamentarisch-demokratische Republik, bestehend aus neun Bundesländern.

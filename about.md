@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Informationen zur Arbeitsorganisation
+Informationen zur Demokratie in Österreich

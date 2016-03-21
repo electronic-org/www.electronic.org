@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Informationen zu Beham
+Die Standard? Der Presse!

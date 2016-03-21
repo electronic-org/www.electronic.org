@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Informationen zur Demokratie in Österreich
+Informationen zu Beham
